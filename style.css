@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(27, 27, 27);
+    color: rgb(45, 233, 170);
+    font-size: larger;
+    line-height: 1.5;
+}
+
+h1, h2 {
+    color: aqua;
+    text-align: center;
+}
+
+figure.image {
+    text-align: center;
+    color: burlywood;
+}
+
+figure.image img {
+    width: 300px;
+    height: auto;
+}
+
+a:link {
+    color: cornflowerblue;
+}
+
+a:visited {
+    color: rgb(198, 100, 237);
+}
+
+a:hover {
+    color: rgb(218, 10, 10);
+}
+
+section {
+    width: 75%;
+    display: block;
+    margin: auto;
+}
